@@ -1,0 +1,72 @@
+[17-Mar-2013 22:37:43] PHP Fatal error:  Class 'OAuth' not found in /home/tazamed/public_html/crowdlinker.com/o/blast/savetoken.php on line 51
+[17-Mar-2013 22:38:49] PHP Fatal error:  Class 'OAuth' not found in /home/tazamed/public_html/crowdlinker.com/o/blast/savetoken.php on line 51
+[17-Mar-2013 22:47:02] PHP Fatal error:  Class 'OAuth' not found in /home/tazamed/public_html/crowdlinker.com/o/blast/savetoken.php on line 51
+[17-Mar-2013 22:47:37] PHP Fatal error:  Class 'OAuth' not found in /home/tazamed/public_html/crowdlinker.com/o/blast/savetoken.php on line 51
+[17-Mar-2013 22:57:42] PHP Fatal error:  Class 'OAuth' not found in /home/tazamed/public_html/crowdlinker.com/o/blast/savetoken.php on line 51
+[17-Mar-2013 22:59:15] PHP Fatal error:  Class 'OAuth' not found in /home/tazamed/public_html/crowdlinker.com/o/blast/savetoken.php on line 51
+[17-Mar-2013 23:00:28] PHP Fatal error:  Class 'OAuth' not found in /home/tazamed/public_html/crowdlinker.com/o/blast/savetoken.php on line 51
+[18-Mar-2013 17:47:09] PHP Fatal error:  Uncaught exception 'OAuthException' with message 'Invalid auth/bad request (got a 401, expected HTTP/1.1 20X or a redirect)' in /home/tazamed/public_html/crowdlinker.com/o/blast/savetoken.php:52
+Stack trace:
+#0 /home/tazamed/public_html/crowdlinker.com/o/blast/savetoken.php(52): OAuth->fetch('https://api.lin...', Array, 'POST')
+#1 {main}
+  thrown in /home/tazamed/public_html/crowdlinker.com/o/blast/savetoken.php on line 52
+[28-Mar-2013 23:21:10] PHP Fatal error:  Uncaught exception 'OAuthException' with message 'Invalid auth/bad request (got a 401, expected HTTP/1.1 20X or a redirect)' in /home/tazamed/public_html/crowdlinker.com/o/blast/savetoken.php:52
+Stack trace:
+#0 /home/tazamed/public_html/crowdlinker.com/o/blast/savetoken.php(52): OAuth->fetch('https://api.lin...', Array, 'POST')
+#1 {main}
+  thrown in /home/tazamed/public_html/crowdlinker.com/o/blast/savetoken.php on line 52
+[28-Mar-2013 23:21:39] PHP Fatal error:  Uncaught exception 'OAuthException' with message 'Invalid auth/bad request (got a 401, expected HTTP/1.1 20X or a redirect)' in /home/tazamed/public_html/crowdlinker.com/o/blast/savetoken.php:52
+Stack trace:
+#0 /home/tazamed/public_html/crowdlinker.com/o/blast/savetoken.php(52): OAuth->fetch('https://api.lin...', Array, 'POST')
+#1 {main}
+  thrown in /home/tazamed/public_html/crowdlinker.com/o/blast/savetoken.php on line 52
+[28-Mar-2013 23:22:02] PHP Fatal error:  Uncaught exception 'OAuthException' with message 'Invalid auth/bad request (got a 401, expected HTTP/1.1 20X or a redirect)' in /home/tazamed/public_html/crowdlinker.com/o/blast/savetoken.php:52
+Stack trace:
+#0 /home/tazamed/public_html/crowdlinker.com/o/blast/savetoken.php(52): OAuth->fetch('https://api.lin...', Array, 'POST')
+#1 {main}
+  thrown in /home/tazamed/public_html/crowdlinker.com/o/blast/savetoken.php on line 52
+[28-Mar-2013 23:22:19] PHP Fatal error:  Uncaught exception 'OAuthException' with message 'Invalid auth/bad request (got a 401, expected HTTP/1.1 20X or a redirect)' in /home/tazamed/public_html/crowdlinker.com/o/blast/savetoken.php:52
+Stack trace:
+#0 /home/tazamed/public_html/crowdlinker.com/o/blast/savetoken.php(52): OAuth->fetch('https://api.lin...', Array, 'POST')
+#1 {main}
+  thrown in /home/tazamed/public_html/crowdlinker.com/o/blast/savetoken.php on line 52
+[28-Mar-2013 23:22:43] PHP Fatal error:  Uncaught exception 'OAuthException' with message 'Invalid auth/bad request (got a 401, expected HTTP/1.1 20X or a redirect)' in /home/tazamed/public_html/crowdlinker.com/o/blast/savetoken.php:52
+Stack trace:
+#0 /home/tazamed/public_html/crowdlinker.com/o/blast/savetoken.php(52): OAuth->fetch('https://api.lin...', Array, 'POST')
+#1 {main}
+  thrown in /home/tazamed/public_html/crowdlinker.com/o/blast/savetoken.php on line 52
+[28-Mar-2013 23:23:00] PHP Fatal error:  Uncaught exception 'OAuthException' with message 'Invalid auth/bad request (got a 401, expected HTTP/1.1 20X or a redirect)' in /home/tazamed/public_html/crowdlinker.com/o/blast/savetoken.php:52
+Stack trace:
+#0 /home/tazamed/public_html/crowdlinker.com/o/blast/savetoken.php(52): OAuth->fetch('https://api.lin...', Array, 'POST')
+#1 {main}
+  thrown in /home/tazamed/public_html/crowdlinker.com/o/blast/savetoken.php on line 52
+[28-Mar-2013 23:23:11] PHP Fatal error:  Uncaught exception 'OAuthException' with message 'Invalid auth/bad request (got a 401, expected HTTP/1.1 20X or a redirect)' in /home/tazamed/public_html/crowdlinker.com/o/blast/savetoken.php:52
+Stack trace:
+#0 /home/tazamed/public_html/crowdlinker.com/o/blast/savetoken.php(52): OAuth->fetch('https://api.lin...', Array, 'POST')
+#1 {main}
+  thrown in /home/tazamed/public_html/crowdlinker.com/o/blast/savetoken.php on line 52
+[28-Mar-2013 23:37:01] PHP Fatal error:  Uncaught exception 'OAuthException' with message 'Invalid auth/bad request (got a 401, expected HTTP/1.1 20X or a redirect)' in /home/tazamed/public_html/crowdlinker.com/o/blast/savetoken.php:52
+Stack trace:
+#0 /home/tazamed/public_html/crowdlinker.com/o/blast/savetoken.php(52): OAuth->fetch('https://api.lin...', Array, 'POST')
+#1 {main}
+  thrown in /home/tazamed/public_html/crowdlinker.com/o/blast/savetoken.php on line 52
+[29-Mar-2013 06:35:39] PHP Fatal error:  Uncaught exception 'OAuthException' with message 'Invalid auth/bad request (got a 401, expected HTTP/1.1 20X or a redirect)' in /home/tazamed/public_html/crowdlinker.com/o/blast/savetoken.php:52
+Stack trace:
+#0 /home/tazamed/public_html/crowdlinker.com/o/blast/savetoken.php(52): OAuth->fetch('https://api.lin...', Array, 'POST')
+#1 {main}
+  thrown in /home/tazamed/public_html/crowdlinker.com/o/blast/savetoken.php on line 52
+[29-Mar-2013 06:39:25] PHP Fatal error:  Uncaught exception 'OAuthException' with message 'Invalid auth/bad request (got a 401, expected HTTP/1.1 20X or a redirect)' in /home/tazamed/public_html/crowdlinker.com/o/blast/savetoken.php:52
+Stack trace:
+#0 /home/tazamed/public_html/crowdlinker.com/o/blast/savetoken.php(52): OAuth->fetch('https://api.lin...', Array, 'POST')
+#1 {main}
+  thrown in /home/tazamed/public_html/crowdlinker.com/o/blast/savetoken.php on line 52
+[01-Apr-2013 08:27:18] PHP Fatal error:  Uncaught exception 'OAuthException' with message 'Invalid auth/bad request (got a 401, expected HTTP/1.1 20X or a redirect)' in /home/tazamed/public_html/crowdlinker.com/o/blast/savetoken.php:52
+Stack trace:
+#0 /home/tazamed/public_html/crowdlinker.com/o/blast/savetoken.php(52): OAuth->fetch('https://api.lin...', Array, 'POST')
+#1 {main}
+  thrown in /home/tazamed/public_html/crowdlinker.com/o/blast/savetoken.php on line 52
+[01-Apr-2013 08:28:22] PHP Fatal error:  Uncaught exception 'OAuthException' with message 'Invalid auth/bad request (got a 401, expected HTTP/1.1 20X or a redirect)' in /home/tazamed/public_html/crowdlinker.com/o/blast/savetoken.php:52
+Stack trace:
+#0 /home/tazamed/public_html/crowdlinker.com/o/blast/savetoken.php(52): OAuth->fetch('https://api.lin...', Array, 'POST')
+#1 {main}
+  thrown in /home/tazamed/public_html/crowdlinker.com/o/blast/savetoken.php on line 52
